@@ -40,4 +40,4 @@
   <a href="https://www.linkedin.com/in/ricardo-freitas-972095256/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
  
-  ![Snake animation](https://github.com/henriqueplech/henriqueplech/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/whosricardo/whosricardo/blob/output/github-contribution-grid-snake.svg)
