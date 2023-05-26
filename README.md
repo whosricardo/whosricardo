@@ -1,16 +1,16 @@
 <div align="center">
- <h1># Olá!! Eu sou o Henrique Plech</h1>
-📜- Faço Bacharelado em Engenharia de Software</br>
+ <h1># Olá!! Eeu sou Ricardo Freitas</h1>
+📜- Faço Bacharelado em Ciências da Computação</br>
 🖥️- Afinidade com de Ciencia de Dados</br>
 🕹️- Gamer</br>
-🦓- Me chamam de Zebra</br>
-💵- Entendedor de criptos</br>
+🚗- Fã numero 1 de carteirinha da Ferrari</br>
+🏎️- Amante de Formula 1</br>
  </div>
 
   <div align="center">
-  <a href="https://github.com/henriqueplech">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=henriqueplech&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriqueplech&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/whosricardo">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=whosricardo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whosricardo&layout=compact&langs_count=7&theme=dark"/>
   </div>
 
   <div style="display: inline_block" align="center"><br>
