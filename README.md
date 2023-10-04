@@ -2,9 +2,6 @@
  <h1># Olá!! Eu sou Ricardo Freitas</h1>
 📜- Faço Bacharelado em Ciências da Computação</br>
 🖥️- Afinidade com de Ciencia de Dados</br>
-🕹️- Gamer</br>
-🚗- Fã numero 1 de carteirinha da Ferrari</br>
-🏎️- Amante de Formula 1</br>
 <h3>===============================================</h3>
  </div>
 
