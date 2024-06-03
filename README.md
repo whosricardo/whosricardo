@@ -1,7 +1,7 @@
 <div align="center">
  <h1># Olá!! Eu sou Ricardo Freitas</h1>
 📜- Faço Bacharelado em Ciências da Computação</br>
-🖥️- Afinidade com de Ciencia de Dados</br>
+🖥️- Afinidade com Ciencia de Dados</br>
 <h3>===============================================</h3>
  </div>
 
